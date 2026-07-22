@@ -40,4 +40,4 @@ python train.py
 ## Publication
 This work was published as a research paper — *EcoLens: Hybrid DistilBERT–LightGBM Framework for Sustainability Analysis* — at NCRTAD 2025.
 
-📄 [View Certificate](docs/ecolens-certificate.pdf)
+📄 [View Certificate](ecolens-certificate.pdf.pdf)
